@@ -1,0 +1,2 @@
+This folder contains .ipynb files which have the python code used for descriptive and inferential statistical analysis
+and predictive modelling.
