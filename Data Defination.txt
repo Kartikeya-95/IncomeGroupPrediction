@@ -1,0 +1,18 @@
+﻿Variable										Definition
+
+ID												Unique ID
+Age												Age of resident
+Workclass										Private, Self-emp-not-inc, Self-emp-inc, …...
+Education										Bachelors, Some-college, 11th, HS-grad, ……
+Marital-Status									Married-civ-spouse, Divorced, Never-married,…..
+Occupation										Tech-support, Craft-repair, Other-service, …..
+Relationship									Wife, Own-child, Husband, Not-in-family, …..
+Race											White, Asian-Pac-Islander, Amer-Indian-Eskimo, …..
+Sex												Female, Male
+Hours-Per-Week									Total number of working hours per week
+Native-Country									United-States, Cambodia, England, Puerto-Rico, …..
+Incomegroup										Income group (>50k or <=50k)
+
+
+TrainData - https://datahack.analyticsvidhya.com/media/workshop_train_file/train_gbW7HTd.csv
+TestData - https://datahack.analyticsvidhya.com/media/workshop_test_file/test_2AFBew7.csv
